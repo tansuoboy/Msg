@@ -21,6 +21,7 @@
     </properties>
 
     <dependencies>
+	<!--日志先不整合，单一的springboot只负责发送邮件-->
         <!--thymleaf-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
